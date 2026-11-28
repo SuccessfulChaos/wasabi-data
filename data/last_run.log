@@ -1,11 +1,11 @@
-Run finished 2026-11-27T04:55:26.013355Z
-Elapsed: 142.7s
+Run finished 2026-11-28T04:40:33.913957Z
+Elapsed: 146.6s
 Tickers requested: 389
 Succeeded: 387
 Not found: 2 ['TCBI', 'ATGE']
 Failed: 0 
-Total bars: 287341
-Latest date in data: 2026-11-25
-CSV size: 19114.9 KB
+Total bars: 287724
+Latest date in data: 2026-11-27
+CSV size: 19137.4 KB
 Names resolved this run: 387
 Names still missing: 0 
